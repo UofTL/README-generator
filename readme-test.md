@@ -1,24 +1,24 @@
 # README-test
 
-    *[Installation](#installation) 
-    *[Description](#description) 
-    *[Usage](#usage) 
-    *[Licence](#licence) 
-    *[Credit/Contributing](#credit/contributing)
+*[Installation](#installation) 
+*[Description](#description) 
+*[Usage](#usage) 
+*[Licence](#licence) 
+*[Credit/Contributing](#credit/contributing)
 
-    # Installation 
+# Installation
     Node.js module inquirer
-    ## Usage 
+# Usage    
     N/A
-    ## Credits 
+# Credits    
     N/A
-    ## Description 
+# Description   
+ 
     nNode.js with command line
-    ## Licence 
+## Licence 
     MIT Licence
-    ## Test
+## Test
     N/A
-
-    #Contact
-        *GitHub: UofTL 
-        *email: N/A
+# Contact
+* GitHub: UofTL 
+* email: N/A
